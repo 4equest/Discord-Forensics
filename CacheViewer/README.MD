@@ -1,5 +1,7 @@
 WIP
 
+Cached message viewer
+
 Requires: ChromeCacheView v2.46 or newer
 https://www.nirsoft.net/utils/chrome_cache_view.html
 
